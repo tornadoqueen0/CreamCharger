@@ -1,0 +1,1 @@
+{"name": "lebensmittel-shop","version": "1.0.0","description": "A simple Lebensmittel shop using PayPal and Stripe for payments.","main": "server.js","scripts": {"start": "node server.js"},"author": "tornadoqueen0","license": "MIT"}
